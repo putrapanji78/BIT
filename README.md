@@ -1,6 +1,8 @@
 
-![ALT TEXT](https://i.postimg.cc/4HCXT5dD/Screenshot-1715252594.png)
-![ALT TEXT](https://i.postimg.cc/ctQ01ntr/Screenshot-1715252617.png)
+
+[![Screenshot-2024-05-09-at-18-23-07.png](https://i.postimg.cc/NjD0Cwfj/Screenshot-2024-05-09-at-18-23-07.png)](https://postimg.cc/WdDjtCkB)
+[![Screenshot-2024-05-09-at-18-21-48.png](https://i.postimg.cc/WbRthnHT/Screenshot-2024-05-09-at-18-21-48.png)](https://postimg.cc/F1Zh6jvB)
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
