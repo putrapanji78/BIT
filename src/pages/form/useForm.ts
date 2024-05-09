@@ -12,9 +12,9 @@ const useForm = () => {
     },
   ]);
   const [statusData, setStatusData] = useState([
-    {
-      label: 'Unfinished',
-      value: 'unfinished',
+   {
+      label: 'Not Yet',
+      value: 'Not Yet',
     },
     {
       label: 'Finished',
