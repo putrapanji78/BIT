@@ -1,3 +1,7 @@
+
+![ALT TEXT](https://i.postimg.cc/4HCXT5dD/Screenshot-1715252594.png)
+![ALT TEXT](https://i.postimg.cc/ctQ01ntr/Screenshot-1715252617.png)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
